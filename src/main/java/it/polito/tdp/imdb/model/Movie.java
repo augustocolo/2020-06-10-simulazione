@@ -7,7 +7,6 @@ public class Movie {
 	Double rank;
 	
 	public Movie(Integer id, String name, Integer year, Double rank) {
-		super();
 		this.id = id;
 		this.name = name;
 		this.year = year;
